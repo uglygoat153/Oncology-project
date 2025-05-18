@@ -14,7 +14,6 @@ tox_median <- apply(tox_preds, 2, median)
 tox_lower  <- apply(tox_preds, 2, quantile, 0.025)
 tox_upper  <- apply(tox_preds, 2, quantile, 0.975)
 # -----------------------------
-# STEP 3: Create Data Frames for Plotting
 # -----------------------------
 eff_plot_data <- data.frame(
   dose = dose_seq,
