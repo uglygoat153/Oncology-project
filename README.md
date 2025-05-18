@@ -12,7 +12,6 @@ The estimated ED50 and ED90 for ORR were 4.7 mg and 42.7 mg, respectively. The B
 ![WhatsApp Image 2025-05-18 at 10 46 56 (1)](https://github.com/user-attachments/assets/89cf01dd-d6b0-475f-8f86-4d7c6bb570dd)
 ![WhatsApp Image 2025-05-18 at 10 46 56](https://github.com/user-attachments/assets/4f07bead-6869-452d-a068-c733d1400b07)
 ![WhatsApp Image 2025-05-18 at 10 46 57 (2)](https://github.com/user-attachments/assets/8566c834-fd3f-4ad7-80b6-ee6167580119)
-![WhatsApp Image 2025-05-18 at 10 46 57](https://github.com/user-attachments/assets/c355ae63-3ea9-41c8-aefe-0b4f4116749d)
 
 # Conclusions
 A Bayesian approach to dose optimization identiﬁed 29 mg as the most favorable Tarlatamab dose in SCLC. This analysis provides a data-driven framework for balancing eﬃcacy and safety, offering insights for future clinical decision-making. Further prospective validation is warranted
